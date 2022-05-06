@@ -2,10 +2,8 @@
 
 This is a personal website simulating Google Search. Built with ReactJS.
 
-Try it online: https://gfolio.enjeck.com/
-
 <kbd>
-<img src="screenshots/gfolio.gif"  />
+<img src="https://content.screencast.com/users/it3851/folders/Capture/media/477f6938-0948-4de5-b353-0334eb2151a4/LWR_Recording.png"  />
  </kbd>
 
 ### Usage
@@ -21,5 +19,5 @@ npm run build
 
 ### License
 
-[GPL-3.0](LICENSE) Copyright (c) 2021 Enjeck Cleopatra
+(LICENSE) Copyright (c) 2021 Sourav Nag
 
